@@ -9,11 +9,11 @@ The library comes with an example that would fetch latest tweets belonging to Op
 (TwitterOSS) and the list of github repos belonging to Processing.org. A screen from the example can be 
 seen below.
 
-![alt text](https://github.com/hamzeen/JASONParserP5/raw/master/example_screen.jpg "A screen from the example sketch")
+![alt text](https://github.com/hamzeen/JSONParserP5/blob/master/example_screen.jpg "A screen from the example sketch")
 
 ## Credits ##
 *   [**JSON in Java**] (http://json.org/java/), for their JSON decoder classes.
-*   [**OpenSource Twitter**] (http://www.twitter.com/TwitterOSS), for their tweets!
+*   [**OpenSource Twitter**] (http://www.twitter.com/TwitterOSS), for the tweets.
 *   [**Processing on Github**] (https://github.com/processing)
 
 ## LICENSE ##
